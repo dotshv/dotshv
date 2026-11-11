@@ -14,10 +14,10 @@
 
 ### 👨‍💻 whoami
 
-I'm a Python developer and 1st-year BCA student from India. Most of my work revolves around writing Python scripts, building Telegram bots, and automating workflows. Right now, I'm shifting my focus heavily towards cybersecurity—specifically ethical hacking, penetration testing, and exploring linux internals.
+​I am a Web Penetration Tester and Python developer from India with a background in backend automation and custom bot architecture. My core focus is securing web applications through systematic vulnerability assessment and penetration testing, backed by custom Python security tooling and a strong foundation in Linux systems.
 
 - 💻 **working on:** [Techofy](https://techofy.xyz) and various Python projects.
-- 🎯 **currently learning:** Ethical hacking, network security, and bash scripting.
+- 🎯 **Specializing in**: Web Penetration Testing, API security, and Linux privilege escalation.
 - ⚡ **fun fact:** I prefer spending my time in the terminal.
 
 <br>
