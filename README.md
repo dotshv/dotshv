@@ -4,8 +4,8 @@
   <br>
 
   <p align="center">
-    <a href="https://techofy.in"><img src="https://img.shields.io/badge/techofy.xyz-000000?style=plastic&logo=vercel&logoColor=00FF00" alt="Website" /></a>
-    <a href="mailto:toxic@techofy.in"><img src="https://img.shields.io/badge/dotshv@edev.fun-000000?style=plastic&logo=protonmail&logoColor=00FF00" alt="Email" /></a>
+    <a href="https://techofy.in"><img src="https://img.shields.io/badge/techofy.in-000000?style=plastic&logo=vercel&logoColor=00FF00" alt="Website" /></a>
+    <a href="mailto:toxic@techofy.in"><img src="https://img.shields.io/badge/toxic@techofy.in-000000?style=plastic&logo=protonmail&logoColor=00FF00" alt="Email" /></a>
     <a href="https://instagram.com/_dev.e"><img src="https://img.shields.io/badge/_dev.e-000000?style=plastic&logo=instagram&logoColor=00FF00" alt="Instagram" /></a>
   </p>
 </div>
